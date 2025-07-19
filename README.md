@@ -10,7 +10,6 @@ I focus on user experience so that visitors think, “Wow, this is smooth!”
 I constantly learn and follow best development practices.
 <br>🌟 Why I do this:<br>
 I love turning ideas into reality. There’s something magical about watching a line of code transform into something useful, beautiful, and inspiring.
-
 <br><br>🌈 A bit about me outside of code:<br>
 When I’m not writing code, I’m… thinking about code. I also explore new technologies, read, travel, or try to debug the glitches in my own head.
 
