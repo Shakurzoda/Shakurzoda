@@ -1,10 +1,10 @@
 👋 < Hello, world! /><br>My name is Farahmand, and I’m a passionate and creative Frontend Developer who brings layouts to life through interactive and responsive interfaces.
 
 <br><br>💻 My tech stack:<br><br>
-🔹 HTML/CSS/SASS – my brushes and paint.
-🔹 JavaScript/TypeScript – the tools that breathe life into pages.
-🔹 React – love at first component.
-🔹 And much more! (If needed, I’ll learn anything — except telepathy... for now.)
+🔹 HTML/CSS/SASS – my brushes and paint.<br>
+🔹 JavaScript/TypeScript – the tools that breathe life into pages.<br>
+🔹 React – love at first component.<br>
+🔹 And much more! (If needed, I’ll learn anything — except telepathy... for now.)<br>
 
 <br>🎨 What I do:<br><br>
 I build responsive interfaces that look great on any screen — from a microwave display to a giant monitor.
