@@ -1,4 +1,21 @@
-👋 < Привет, мир! /><br>Меня зовут Фарахманд, я — увлечённый и креативный Frontend-разработчик, превращающий макеты в живые, интерактивные и адаптивные интерфейсы.<br><br>💻 Мой стек:<br><br>🔹 HTML/CSS/SASS — мои кисти и краски.<br>🔹 JavaScript/TypeScript — инструменты для оживления страниц.<br>🔹 React — любовь с первого компонента.<br>🔹 И ещё многое другое! (если нужно, освою что угодно, кроме телепатии... пока)<br>🎨 Что я делаю?<br><br>Создаю адаптивные интерфейсы, которые одинаково круто смотрятся на любом устройстве — от микроволновки до огромного монитора.<br>Прорабатываю пользовательский опыт, чтобы посетители сайтов думали: "Вау, как удобно!".<br>Постоянно учусь и следую лучшим практикам разработки.<br>🌟 Почему я этим занимаюсь?<br>Мне нравится превращать идеи в реальность. Обожаю видеть, как строка кода становится чем-то полезным, красивым и вдохновляющим.<br><br>🌈 Чуть обо мне вне кода:<br>Когда я не пишу код, я… думаю о коде. А ещё изучаю новые технологии, читаю, путешествую или просто пытаюсь победить баги в своей голове.
+👋 < Hello, world! /><br>My name is Farahmand, and I’m a passionate and creative Frontend Developer who brings layouts to life through interactive and responsive interfaces.
+
+<br><br>💻 My tech stack:<br><br>
+🔹 HTML/CSS/SASS – my brushes and paint.
+🔹 JavaScript/TypeScript – the tools that breathe life into pages.
+🔹 React – love at first component.
+🔹 And much more! (If needed, I’ll learn anything — except telepathy... for now.)
+
+<br>🎨 What I do:<br><br>
+I build responsive interfaces that look great on any screen — from a microwave display to a giant monitor.
+I focus on user experience so that visitors think, “Wow, this is smooth!”
+I constantly learn and follow best development practices.
+
+<br>🌟 Why I do this:<br>
+I love turning ideas into reality. There’s something magical about watching a line of code transform into something useful, beautiful, and inspiring.
+
+<br><br>🌈 A bit about me outside of code:<br>
+When I’m not writing code, I’m… thinking about code. I also explore new technologies, read, travel, or try to debug the glitches in my own head.
 
 
 # 💻 Tech Stack:
